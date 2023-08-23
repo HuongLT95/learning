@@ -39,5 +39,7 @@ let obj2 = {
 let str = obj1.name + obj2.name
 console.log(str);
 
-var arr3 = obj1.lop * obj2.tuoi
+var arr3 = obj1.lop * obj2.tuoi;
 console.log(arr3);
+
+const a = 1 + '1';
